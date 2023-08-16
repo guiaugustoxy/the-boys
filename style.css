@@ -118,6 +118,7 @@ main section .text{
     border-bottom: 4px solid #fff;
     background: #0f79af;
     transition: all .3s;
+    cursor: pointer;
 }
 
 .btn-box2:hover{
@@ -127,6 +128,7 @@ main section .text{
 .btn-box2 .play{
     width: 1.1em;
     filter: invert(1);
+    cursor: pointer;
 }
 
 footer .cards{
