@@ -112,7 +112,7 @@ main section .text{
     gap: 14px;
     padding: 15px 45px;
     border-radius: 5px 5px 0 0;
-    margin-top: 2em;
+    margin-top: 0.5em;
     font-size: 25px;
     color: #fff;
     border-bottom: 4px solid #fff;
@@ -131,6 +131,12 @@ main section .text{
     cursor: pointer;
 }
 
+.btn-box2 .titulo-ep{
+    font-size: 18px;
+    color: #2d3846;
+}
+
+
 footer .cards{
     display: flex;
     flex-flow: row;
@@ -140,7 +146,7 @@ footer .cards{
 }
 
 .cards .card{
-    height: 150px;
+    height: 170px;
     max-width: 400px;
     box-shadow: 12px 0px 32px 2px black;
     margin-left: -120px;
