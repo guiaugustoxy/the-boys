@@ -1,7 +1,7 @@
 # LANDING PAGE - THE BOYS 🦸
 Criei uma Lading Page no tema da série The Boys da Prime Vídeo, utilizei HTML e CSS.
 
-![Projeto The Boys](https://github.com/guiaugustoxy/the-boys/assets/137638499/1af9cc09-dc86-410b-b8ce-2fdc2f7d1629)
+![Captura de tela 2023-08-16 181926](https://github.com/guiaugustoxy/the-boys/assets/137638499/d3184794-f952-4c61-8984-8c3ec307d2f1)
 
 ## 📟 Tecnologias
 
